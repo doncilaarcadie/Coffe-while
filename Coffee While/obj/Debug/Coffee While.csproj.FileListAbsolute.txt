@@ -1,0 +1,6 @@
+C:\Users\Fenerbahce\source\repos\Coffee While\bin\Debug\Coffee While.exe.config
+C:\Users\Fenerbahce\source\repos\Coffee While\bin\Debug\Coffee While.exe
+C:\Users\Fenerbahce\source\repos\Coffee While\bin\Debug\Coffee While.pdb
+C:\Users\Fenerbahce\source\repos\Coffee While\obj\Debug\Coffee While.csprojAssemblyReference.cache
+C:\Users\Fenerbahce\source\repos\Coffee While\obj\Debug\Coffee While.exe
+C:\Users\Fenerbahce\source\repos\Coffee While\obj\Debug\Coffee While.pdb
